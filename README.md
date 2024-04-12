@@ -1,2 +1,2 @@
 # PairLabAssigment
-Pair Lab Assignment to do with Tara
+This is lab 8 and was created by Francisco Morales and Tara Mukund.
